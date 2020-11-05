@@ -1,8 +1,10 @@
-# The Rules
-1. No Hacking
-2. Respect other
-3. Don’t ask to become staff
-4. Don’t impersonate staff
-No spamming
-No racism
-In-game chat can be seen in Discord and vice versa, be nice to people!
+# ToastySMP Server Rules
+Welcome to ToastySMP! To play on our server, you have to follow the rules below! So let's get to the basics.
+
+# The Basics
+*These are not the actual rules, these are quick rules for people who are cetain that they know what they are doing!*
+• No Using mods that might give you an unfair advantage.
+• Respect others in chat.
+• Don’t ask for higher-up roles such as Helper.
+• Do not in chat.
+• Do not use slurs in chat.
