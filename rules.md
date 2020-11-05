@@ -1,4 +1,4 @@
-*probably will be reworked into separate files someday -helveticatoast*
+<!-- *probably will be reworked into separate files someday -helveticatoast* -->
 # ToastySMP Server Rules
 Welcome to ToastySMP! To play on our server, you have to follow the rules below! So let's get to the basics.
 
