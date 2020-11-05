@@ -17,11 +17,11 @@ The administrators of ToastySMP are allowed to ban anyone for any reason they wi
 
 ## Unfair Advantages
 
-Sample Text
+don't cheat lmao - helveticatoast
 
 ## Griefing and Stealing
 
-Sample Text
+Mario Mario, M, M, Mario, Mario Mario.
 
 ## Chat Disrespect
 
@@ -33,4 +33,4 @@ Sample Text
 
 ## Exploit Abuse
 
-Sample Text
+If you find an exploit please report it to HelveticaToast ASAP, do not continue to do the exploit unless asked to demonstrate by a staff member. Distributing info about to exploit to other users will result in severe punishment. If an admin approves of use of the exploit until fix (Ex: UltimateCatcher Spawner Exploit).
