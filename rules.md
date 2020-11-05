@@ -13,7 +13,7 @@ Welcome to ToastySMP! To play on our server, you have to follow the rules below!
 
 # Server Rules
 
-The administrators of ToastySMP are allowed to ban anyone for any reason they wish. If you think your ban is unfair, open a ban appeal. All ban appeals are read by HelveticaToast, so if your ban is truely unfair, you will be unbanned.
+The administrators of ToastySMP are allowed to ban anyone for any reason they wish. If you think your ban is unfair, open a ban appeal. All ban appeals are read by HelveticaToast, so if your ban is truly unfair, you will be unbanned.
 
 ## Unfair Advantages
 
